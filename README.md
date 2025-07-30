@@ -2,7 +2,7 @@
 
 This repository contains code and datasets for a sentiment analysis project implemented in Python. The goal is to classify textual data (such as reviews) into positive or negative sentiment using machine learning and natural language processing (NLP) techniques.
 
-It was a project assignment in the edx course "MITx: Machine Learning with Python: from Linear Models to Deep Learning".
+It was a project assignment in the edX course "MITx: Machine Learning with Python: from Linear Models to Deep Learning".
 
 ## 📁 Repository Structure
 
