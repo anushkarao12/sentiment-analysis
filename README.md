@@ -8,17 +8,29 @@ It was a project assignment in the edx course "MITx: Machine Learning with Pytho
 📦 sentiment-analysis/
 
 ├── 200.txt # Sample dataset or stopword/wordlist file
+
 ├── 4000.txt # Sample dataset or stopword/wordlist file
+
 ├── README.md # Project overview (you're reading it!)
+
 ├── main.py # Main execution file for sentiment classification
+
 ├── reviews_submit.tsv # TSV file for submission (likely test set predictions)
+
 ├── reviews_test.tsv # Test dataset
+
 ├── reviews_train.tsv # Training dataset
+
 ├── reviews_val.tsv # Validation dataset
+
 ├── stopwords.txt # List of stopwords used for text preprocessing
+
 ├── test.py # Script for testing modules or experiments
+
 ├── tmp_project1.py # Temporary or experimental project file
+
 ├── toy_data.tsv # Smaller or synthetic dataset for quick testing
+
 ├── utils.py # Utility functions for preprocessing and model handling
 
 
@@ -80,7 +92,7 @@ The project uses `.tsv` (tab-separated values) files for input datasets:
 
 ## 📜 License
 
-This project is open-source and free to use under the MIT License.
+This project is open-source and freely available under the MIT License.
 
 ---
 
